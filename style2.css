@@ -1,0 +1,87 @@
+.h1tempn{
+    height: 150px;
+    width: 15%;
+    /* position: relative; */
+    margin-top: 90px;
+    margin-left: 750px;
+    font-size:150px;
+    color: white;
+
+}
+.tempcn{
+    font-size:75px ;
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    color: white;
+}
+.citynamen{
+    height: 80px;
+
+    width: 20%;
+    font-size:50px;
+    position: relative;
+    top: 30px;
+    left: 650px;
+    text-align: center;
+    color: white;
+  
+}
+.countryn{
+    width: 20%;
+    font-size:30px;
+    position: relative;
+    top: 30px;
+    left: 750px;
+    color: white;
+}
+.countrybelown{
+    height: 160px;
+    width: 55%;
+    background: rgba(0, 0, 0, .6);
+    border-radius: 50px;
+    position: relative;
+    top: 50px;
+    left: 380px;
+    color: white;
+
+}
+ul{
+    list-style: none;
+}
+li{
+    height: 50px;
+    text-decoration: 2px dotted white underline;
+    /* background: green; */
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: white;
+
+}
+.pressuren{
+   text-decoration: none;
+    margin-left: 30px;
+    color: white;
+}
+.uvn{
+    margin-left: 80px;
+    text-decoration: none;
+    color: white;
+}
+.humidityn{
+    margin-left: 120px;
+    text-decoration: none;
+    color: white;
+}
+.reallifen{
+    margin-left: 80px;
+    text-decoration: none;
+    color: white;
+}
+.windspeedn{
+    margin-left: 70px;
+    text-decoration: none;
+    color: white;
+}

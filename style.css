@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a{
+    height: 695px;
+    width: 100%;
+    
+}
+ 
+.backimg{
+    height: 695px;
+    width: 100%;
+   
+}
+.b{
+    height: 695px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+   
+}
+.searchd{
+    height: 50px;
+    width: 20%;
+    position: relative;
+    top: 150px;
+    left: 40%;
+    border: none;
+    border-radius: 50px;
+    font-size: 25px;
+    padding-left:10px ;
+}
+.buttonsrch{
+    height: 50px;
+    width: 25px;
+    border: none;
+    background: none;
+    position: relative;
+    top: 100px;
+    left: 61%;
+
+}
+.buttonsrch:focus{
+    outline: none;
+}
+.iconimg{
+    height: 150px;
+    width:15%;
+    position: absolute;
+    top: 200px;
+    left: 550px;
+   
+}
+.h1temp{
+    height: 150px;
+    width: 15%;
+    /* position: relative; */
+    margin-top: 90px;
+    margin-left: 750px;
+    font-size:150px;
+
+}
+.tempc{
+    font-size:75px ;
+    position: absolute;
+    top: 200px;
+    left: 900px;
+}
+.cityname{
+    height: 80px;
+
+    width: 20%;
+    font-size:50px;
+    position: relative;
+    top: 30px;
+    left: 650px;
+    text-align: center;
+  
+}
+.country{
+    width: 20%;
+    font-size:30px;
+    position: relative;
+    top: 30px;
+    left: 750px;
+}
+.countrybelow{
+    height: 160px;
+    width: 55%;
+    background: rgba(0, 0, 0, .6);
+    border-radius: 50px;
+    position: relative;
+    top: 50px;
+    left: 380px;
+
+}
+ul{
+    list-style: none;
+}
+li{
+    height: 50px;
+    text-decoration: 2px dotted white underline;
+    /* background: green; */
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+.pressure{
+   text-decoration: none;
+    margin-left: 30px;
+}
+.uv{
+    margin-left: 80px;
+    text-decoration: none;
+}
+.humidity{
+    margin-left: 120px;
+    text-decoration: none;
+}
+.reallife{
+    margin-left: 80px;
+    text-decoration: none;
+}
+.windspeed{
+    margin-left: 70px;
+    text-decoration: none;
+}
+
+
+
+
+
